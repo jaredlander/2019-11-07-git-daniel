@@ -3,7 +3,6 @@
 DCR 2019 git workshop notes
 
 ## Local
->>>>>>> 8bcedeb8e920ce29435cb65eefa983552a46001e
 
 - `init`: initialize folder as git repo
 - `status`: see what is going on in the repo

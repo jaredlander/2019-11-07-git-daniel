@@ -31,3 +31,8 @@ DCR 2019 git workshop notes
   - `git switch <branch_name`: new command similar to checkout?
 - `branch -d`: delete a branch that was merged
   - `branch -D`: force delete a branch that was *not* merged
+
+
+## Updating History
+
+- `rebase <branch_name>`: incorporate changes in <branch_name>, for example `master` into current branch, e.g. `project_template`

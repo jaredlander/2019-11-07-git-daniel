@@ -9,6 +9,9 @@
   - `log --oneline`: get a one line representation of history
 - `HEAD`: where you are currently looking at
 - `checkout`: move your `HEAD` around
+
+## Remotes
+
 - `remote`: somewhere your git repo is stored (e.g., GitHub)
   - `origin`: the default you give your remote
 - `push`: sending local changes to remote

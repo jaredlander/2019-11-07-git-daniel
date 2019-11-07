@@ -36,3 +36,4 @@ DCR 2019 git workshop notes
 ## Updating History
 
 - `rebase <branch_name>`: incorporate changes in <branch_name>, for example `master` into current branch, e.g. `project_template`
+  - You perform this command on the feature branch, not on master
